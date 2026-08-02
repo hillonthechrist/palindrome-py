@@ -1,2 +1,4 @@
-# palindrome-py
+# Palindrome Py
+
 Verify palindrome strings in Python.
+
